@@ -11,6 +11,8 @@ Follows the database of access to the API BackEnd in Node.Js
 The Mobile project is in Ionic.
 
 A PHP folder project contains the Crud from the Establishments table and access via login and password with permission management.
+to access use the login: admin and pass: admin or login: user and pass: 123
+alter file app/config/db_mysql.ini to access database.
 
 Soon we will have new updates with video.
 
@@ -26,6 +28,8 @@ Segue o banco de dados de acesso ao BackEnd da API em Node.Js
 O projeto Mobile está em Ionic.
 
 A pasta Projeto PHP contem o Crud da tabela Estabelecimentos e acesso via login e senha com gerenciamento de permissões.
+para acessar use o login: admin e senha: admin ou login: user e senha: 123
+altere o arquivo app/config/db_mysql.ini para acessar o banco.
 
 Logo teremos novas atualizações com video.
 
