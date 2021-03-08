@@ -14,7 +14,6 @@ A PHP folder project contains the Crud MVC from the Establishments table and acc
 to access use the login: admin and pass: admin or login: user and pass: 123
 alter file app/config/db_mysql.ini to access database.
 
-Soon we will have new updates with video.
 
 Tankyou.
 
@@ -31,6 +30,5 @@ A pasta Projeto PHP contem o Crud MVC da tabela Estabelecimentos e acesso via lo
 para acessar use o login: admin e senha: admin ou login: user e senha: 123
 altere o arquivo app/config/db_mysql.ini para acessar o banco.
 
-Logo teremos novas atualizações com video.
 
 Obrigado.
